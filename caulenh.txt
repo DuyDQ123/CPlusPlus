@@ -1,12 +1,22 @@
-git init 
+git init tạo repo trên local
 
-git status
+git status kiem tra trang thai
 
-git add file_name || git add .
+git add file_name || git add . dua file vao staging area
 
-git push
+git remote add origin https://github.com/DuyDQ123/CPlusPlus.git // Xác định được địa chỉ của remote repo
+
+git push đẩy lên remote repo
 
 git push origin -u main
 
 
-local -> stash area -> 
+
+
+local -> staging area -> git repo
+
+git branch: List ra các branch local
+
+git branch -M name: tạo branch với cái name đó
+
+git checkout -b name: tạo ra 
