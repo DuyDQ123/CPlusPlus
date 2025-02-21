@@ -1,0 +1,12 @@
+git init 
+
+git status
+
+git add file_name || git add .
+
+git push
+
+git push origin -u main
+
+
+local -> stash area -> 
