@@ -20,3 +20,5 @@ git branch: List ra các branch local
 git branch -M name: tạo branch với cái name đó
 
 git checkout -b name: tạo ra 
+
+duy aaa
